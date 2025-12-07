@@ -9,10 +9,10 @@ This project recreates the modern Spotify interface with clean UI, dynamic playl
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](./Screenshot-1.png)
+![Home Page](./public/Spotify_clone1.png)
 
-### 🎵 Playlist / Album Page
-![Album Page](./Screenshot-2.png)
+### 🎵 Album Page
+![Album Page](./public/Spotify_clone2.png)
 
 
 ---
@@ -44,7 +44,7 @@ This project recreates the modern Spotify interface with clean UI, dynamic playl
 ---
 
 ## 💻 GitHub Repository
-📦 **Repo:** https://github.com/your-repo-link
+📦 **Repo:** https://github.com/siva-codez/spotify_clone
 
 ---
 
