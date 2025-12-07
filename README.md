@@ -33,7 +33,7 @@ This project recreates the modern Spotify interface with clean UI, dynamic playl
 | ⚛️ React | Frontend UI |
 | 🎨 Tailwind CSS | Styling & responsiveness |
 | 🔄 React Router | Page navigation |
-| 🧩 Vite / CRA | Project bundler (use your setup) |
+| 🧩 Vite  | Project bundler (use your setup) |
 | 🎶 JSON Data | Dummy music data |
 
 ---
