@@ -3,7 +3,7 @@ import Sidebar from './Sidebar'
 import Player from './Player'
 import Display from './Display'
 import { PlayerContext } from '../context/PlayerContext'
-import Home from "./components/home.jsx";
+
 
 
 const Home = () => {
